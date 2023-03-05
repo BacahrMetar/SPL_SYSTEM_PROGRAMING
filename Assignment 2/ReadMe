@@ -1,0 +1,4 @@
+multiPlayer "Set" card Game Implementation.
+code was written using java.
+The goal of the assignment is to practice concurrent programming on Java environment,
+using and learning Threads and Java Synchronization.
