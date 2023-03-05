@@ -1,0 +1,5 @@
+First Assignment in Spl course.
+this program simulates "Coalition Race".
+The program receive a config file (JSON) as input, which includes the parties' details 
+, the graph, and the list of agents .
+and return the first coalition that reach 61 mandates.
