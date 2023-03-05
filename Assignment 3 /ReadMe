@@ -1,0 +1,9 @@
+World-Cup update subscription service. 
+implement both client and server sides.
+Users can subscribe to a game channel and report and receive reports
+about the game to and from the other subscribed users.
+implement both a server, which provide STOMP server services and a client, which a user can use in
+order to interact with the rest of the users
+
+The server is implemented in Java and support both Thread-Per-Client (TPC) and the Reactor,
+The client implemented in C++ and will hold the required logic .
